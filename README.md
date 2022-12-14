@@ -10,10 +10,10 @@
 </div>
 
 -----
-<summary>☎️ Contact me</summary>
+☎️ Contact me
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">You can reach me by:</h2>
     <p align="center">
       <br />
       <a
@@ -36,7 +36,7 @@
   </samp>
 </div>
 
-<summary>🧮 About</summary>
+🧮 About
 <div>
   <samp>
     <h2 align="center">About this Account</h2>
@@ -67,12 +67,12 @@
   </samp>
 </div>
 
-<summary>💻 GitHub Profile Stats</summary>
+💻 GitHub Profile Stats
 <div>
   <samp>
     <h2 align="center">Github stats</h2>
     <br />
-    <summary><h3>Languages</h3></summary>
+    <pre>\t - Languages</pre>
     <p align="center">
       <a href="https://github.com/Pablo-Miguel">
         <img
@@ -94,7 +94,8 @@
         />
       </a>
     </p>
-    <summary><h3>Stasistic</h3></summary>
+    <h3></h3>
+    <pre>\t - Stasistic</pre>
     <p align="center">
       <a href="https://github.com/Pablo-Miguel/">
         <img
@@ -111,7 +112,7 @@
   </samp>
 </div>
 
-<summary>📈 Latest Activity Graph</summary>
+📈 Latest Activity Graph
 <samp>
   <br />
   <h2 align="center">Latest contribution</h2>
