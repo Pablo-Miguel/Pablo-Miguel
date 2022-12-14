@@ -72,7 +72,7 @@
   <samp>
     <h2 align="center">Github stats</h2>
     <br />
-    <pre>\t - Languages</pre>
+    <p> - Languages</p>
     <p align="center">
       <a href="https://github.com/Pablo-Miguel">
         <img
@@ -95,7 +95,7 @@
       </a>
     </p>
     <h3></h3>
-    <pre>\t - Stasistic</pre>
+    <p> - Stasistic</p>
     <p align="center">
       <a href="https://github.com/Pablo-Miguel/">
         <img
