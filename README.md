@@ -1,12 +1,12 @@
 <div align="center">
-  <h1 align="center">Hi <img width="35" src="https://github.com/Pablo-Miguel/Pablo-Miguel/resources/waving.gif" />, I'm Pablo Miguel</h1>
+  <h1 align="center">Hi <img width="35" src="https://github.com/Pablo-Miguel/Pablo-Miguel/blob/main/resources/img/waving.gif" />, I'm Pablo Miguel</h1>
   <h4 align="center">
     a cross-platform application development student at IES Almunia
   </h4>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Pablo-Miguel"> <img src="https://github.com/Pablo-Miguel/Pablo-Miguel/resources/grid-snake.svg" alt="snake" /></a>
+  <a href="https://github.com/Pablo-Miguel"> <img src="https://github.com/Pablo-Miguel/Pablo-Miguel/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 
 -----
