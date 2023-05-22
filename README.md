@@ -17,7 +17,7 @@
     <p align="center">
       <br />
       <a
-        href="www.linkedin.com/in/pablo-miguel-del-castillo-barba-591875246"
+        href="https://www.linkedin.com/in/pablo-miguel-del-castillo-barba-591875246/"
         target="blank"
         ><img
           align="center"
