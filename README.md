@@ -119,7 +119,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img
       alt="Pablo Miguel's Activity Graph"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=Pablo-Miguel&theme=dracula"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Pablo-Miguel&theme=dracula"
   /></a>
   <br />
 </samp>
